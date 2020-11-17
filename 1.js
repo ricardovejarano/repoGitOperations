@@ -4,3 +4,6 @@ console.log('FEATURfE');
 console.log('FINAL TEST');
 console.log('Edited from conflict');
 console.log('Change number 2');
+
+////////////// GITHUB
+console.log('First change from github user1');
