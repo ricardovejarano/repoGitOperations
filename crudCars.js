@@ -1,5 +1,5 @@
 /// CREATE
-console.log('Create');
+console.log('Create edit');
 const parapoderBorrar = 'OK';
 
 /// REMOVE
